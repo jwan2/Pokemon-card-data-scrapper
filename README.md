@@ -4,6 +4,7 @@ Scrape data from https://pkmncards.com/sets/
 Author
 Jia
 
+![Output example](readme_img.png)
 
 
 
