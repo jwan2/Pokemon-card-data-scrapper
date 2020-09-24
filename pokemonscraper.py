@@ -1,3 +1,6 @@
+# Author: Jia
+
+
 from selenium import webdriver
 from bs4 import BeautifulSoup, NavigableString, Tag
 import pandas as pd
