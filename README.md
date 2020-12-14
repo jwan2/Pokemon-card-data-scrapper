@@ -1,4 +1,4 @@
-# Pokemon-database-scraper
+# Pokemon database scraper
 Scrape data from https://pkmncards.com/sets/
 
 Author
